@@ -2,7 +2,7 @@ def parrot(phrase = "Squawk!")
   puts  #{phrase}
   phrase
 end
- parrot("pretty bird!") 
+ puts parrot("pretty bird!") 
 
 
 # Create method `parrot` that outputs a given phrase and
