@@ -1,4 +1,4 @@
-def parrot(string = " This parrots says Squawk!")
+def parrot(string = "Squawk!")
   puts  #{string}"
   return string
 end
