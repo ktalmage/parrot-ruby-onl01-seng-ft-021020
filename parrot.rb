@@ -1,6 +1,6 @@
 def parrot(string = "Squawk!")
   puts "This parrot says #{string}"
-  
+  return string
 end
   parrot("Pretty bird!")
 
